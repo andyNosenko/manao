@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database>
+    <users>
+        <row>
+            <id/>
+            <login/>
+            <password/>
+            <email/>
+            <name/>
+        </row>
+    <row><id>2</id><login>a1996y3</login><password>$2y$10$PQHIW4rDO9TR5nLbygx5ReVW7aLGpPhZpVNE0J7twbxFywGVhCSFK</password><email>a1996y3@yandex.by</email><name>Grege</name></row><row><id>3</id><login>a1996y</login><password>$2y$10$OpvCFzKPCBZZ6yTfxcPOSeVKDTDCGXtBRGuN8aC2yRWq7CPqGQQY2</password><email>a1996y@yandex.by</email><name>Grege</name></row><row><id>4</id><login>a1996y1</login><password>$2y$10$ynkx3OqCvq9jKqAQQvDNP.r1WZoUffJqpCl71xyASTuMOr/abesRe</password><email>a1996y1@yandex.by</email><name>Grege</name></row></users>
+</database>
